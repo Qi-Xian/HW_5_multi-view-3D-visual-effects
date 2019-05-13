@@ -41,6 +41,11 @@
 
 
 ## e. 結論
-這次，我們的時間實作上蠻趕的，也沒有足夠的時間使用其他演算法SURF, ORB來呈現，大部分都是用SIFT來實作，太整體效果上可以是得體的，也看了幾篇相關[Paper](http://webdiis.unizar.es/~aserrano/docs/Serrano_IEEEVR2019_VR-6dof.pdf)，然後看別人的[DEMO](https://drive.google.com/file/d/1NX240F5iU3lbzXH3MD7siSGM7gl8QpBk/view)，不妨大家可以實際試試看，然後改用其他的演算法去測試，會有出呼意外的實作效果。
+這次，我們的時間實作上蠻趕的，也沒有足夠的時間使用其他演算法SURF, ORB來呈現，大部分都是用SIFT來實作，太整體效果上可以是得體的，也看了幾篇相關[Paper](http://webdiis.unizar.es/~aserrano/docs/Serrano_IEEEVR2019_VR-6dof.pdf)，然後看別人的[DEMO](https://drive.google.com/file/d/1NX240F5iU3lbzXH3MD7siSGM7gl8QpBk/view)，不妨大家可以實際試試看，然後改用其他的演算法去測試，會有出乎意外的實作效果。
 
 ## f. 參考文獻
+1. [live_photo](https://david-smith.org/blog/2015/11/03/introducing-livetogif/)
+2. [Motion parallax for 360° RGBD video](http://webdiis.unizar.es/~aserrano/projects/VR-6dof.html#downloads)
+3. [STOP_MOTION實作](https://github.com/zuzmeister/StopMotion)
+
+
