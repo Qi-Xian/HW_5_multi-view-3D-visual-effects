@@ -3,7 +3,7 @@
 我們再小吃部前取景，multi_view部分的資料集請參閱
 
 1. [multiview1_資料夾](https://github.com/Qi-Xian/HW_5_multi-view-3D-visual-effects/tree/master/multi_view1)
-2. [multiview1_資料夾](https://github.com/Qi-Xian/HW_5_multi-view-3D-visual-effects/tree/master/multi_view2)
+2. [multiview2_資料夾](https://github.com/Qi-Xian/HW_5_multi-view-3D-visual-effects/tree/master/multi_view2)
 
 ### 校景（找到相同的 allignment的feature match）
 <img src='multi_view2/stitched.jpg' width = "640" height="480">
@@ -12,8 +12,8 @@
 <img src='multi_view2/matchesOfPanorama_3.jpg' width = "640" height="480">
 
 ### 杯子multi_view（背景blur效果）
-<img src='multi_view2/DSC_4241.JGP' width = "640" height="480">
-<img src='multi_view2/DSC_4242.JGP' width = "640" height="480">
+<img src='multi_view2/DSC_4241.JPG' width = "640" height="480">
+<img src='multi_view2/DSC_4242.JPG' width = "640" height="480">
 
 ## Show image alignment results between different images
 
