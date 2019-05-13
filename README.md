@@ -25,8 +25,9 @@
 
 ## c. Generate the multi-view 3D visual effects
 
+<img src='stop Motion/stop Motion.gif' width = "640" height="480">
 
-
+[程式碼連結/HW_5.ipynb](https://colab.research.google.com/drive/1T1AhY79seiNjtU7YFA-nY-0XJLZnTQk0)
 ## d.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
 
 
