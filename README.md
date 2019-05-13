@@ -37,8 +37,10 @@
 
 [程式碼連結/HW_5.ipynb](https://colab.research.google.com/drive/1T1AhY79seiNjtU7YFA-nY-0XJLZnTQk0)
 ## d.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
+我們使用PS將照片做filter臨界值效果，再使用SIFT偵測去實作，雖然SIFT結果feature match減少幾條，但是在live photo影像反而效果更好，如下圖。
 
 
+<img src='live photo_enhance/live photo_enhance.gif' width = "640" height="480">
 
 ## e. 結論
 這次，我們的時間實作上蠻趕的，也沒有足夠的時間使用其他演算法SURF, ORB來呈現，大部分都是用SIFT來實作，太整體效果上可以是得體的，也看了幾篇相關[Paper](http://webdiis.unizar.es/~aserrano/docs/Serrano_IEEEVR2019_VR-6dof.pdf)，然後看別人的[DEMO](https://drive.google.com/file/d/1NX240F5iU3lbzXH3MD7siSGM7gl8QpBk/view)，不妨大家可以實際試試看，然後改用其他的演算法去測試，會有出乎意外的實作效果。
