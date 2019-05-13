@@ -33,7 +33,7 @@
 
 接下來，Live photo部分，我們一樣也都用SIFT演算法找到一個定位點，效果上還可以呈現。
 
-<img src='live_photo/live photo.gif' width = "640" height="480">
+<img src='live photo/live_photo.gif' width = "640" height="480">
 
 [程式碼連結/HW_5.ipynb](https://colab.research.google.com/drive/1T1AhY79seiNjtU7YFA-nY-0XJLZnTQk0)
 ## d.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
