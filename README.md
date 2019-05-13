@@ -9,7 +9,7 @@
 
 <img src='Motion parallax/Motion parallax.gif' width = "640" height="480">
 
-[程碼碼連結/Downloads](https://drive.google.com/file/d/1jk72tJ9wHROH4z565PjWAhtO1d9P3etD/view)
+[程式碼連結/Downloads](https://drive.google.com/file/d/1jk72tJ9wHROH4z565PjWAhtO1d9P3etD/view)
 
 ## Generate the multi-view 3D visual effects
 
