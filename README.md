@@ -24,7 +24,7 @@
 [程式碼連結/Downloads](https://drive.google.com/file/d/1jk72tJ9wHROH4z565PjWAhtO1d9P3etD/view)
 
 ## c. Generate the multi-view 3D visual effects
-
+我們使用校景的資料夾，使用SIFT偵測來找出feature match,找出之後，再輸出成動態圖。
 <img src='stop Motion/stop Motion.gif' width = "640" height="480">
 
 [程式碼連結/HW_5.ipynb](https://colab.research.google.com/drive/1T1AhY79seiNjtU7YFA-nY-0XJLZnTQk0)
