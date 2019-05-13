@@ -36,7 +36,7 @@
 <img src='live photo/live_photo.gif' width = "640" height="480">
 
 [程式碼連結/HW_5.ipynb](https://colab.research.google.com/drive/1T1AhY79seiNjtU7YFA-nY-0XJLZnTQk0)
-## d.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
+## d.Exploit creativity to add some image processing to enhance effect 
 我們使用PS將照片做filter臨界值效果，再使用SIFT偵測去實作，雖然SIFT結果feature match減少幾條，但是在live photo影像反而效果更好，如下圖。
 
 
