@@ -36,4 +36,6 @@
 
 
 
-## e. Bonus - Complete the above 3 different effects
+## e. 結論
+
+## f. 參考文獻
