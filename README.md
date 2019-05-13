@@ -27,6 +27,10 @@
 我們使用校景的資料夾，使用SIFT偵測來找出feature match,找出之後，再輸出成動態圖。
 <img src='stop Motion/stop Motion.gif' width = "640" height="480">
 
+一個人定位在中間，同樣使用sift偵測做出stop Motion effect，如下圖。
+
+<img src='stop Motion2/stop Motion2.gif' width = "640" height="480">
+
 [程式碼連結/HW_5.ipynb](https://colab.research.google.com/drive/1T1AhY79seiNjtU7YFA-nY-0XJLZnTQk0)
 ## d.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
 
