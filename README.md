@@ -31,7 +31,7 @@
 
 <img src='stop Motion2/stop Motion_2.gif' width = "640" height="480">
 
-接下來，Live photo部分，我們一樣也都用SIFT演算法找到一個定位點，效果上還可以呈現。
+接下來，Live photo部分，我們一樣也都用SIFT演算法找到一個定位點，效果呈現上還得體（但背景有些沒有match到。）
 
 <img src='live photo/live_photo.gif' width = "640" height="480">
 
