@@ -39,7 +39,10 @@
 ## d.Exploit creativity to add some image processing to enhance effect 
 我們使用PS將照片做filter臨界值效果，再使用SIFT偵測去實作，雖然SIFT結果feature match減少幾條，但是在live photo影像反而效果更好，如下圖。
 
+### 濾波後的Motion Parallax
+<img src='Motion_parallax_enahce/Webp.net-gifmaker.gif' width = "640" height="480">
 
+### 濾波後的Live Photo
 <img src='live photo_enhance/live photo_enhance.gif' width = "640" height="480">
 
 ## e. 結論
